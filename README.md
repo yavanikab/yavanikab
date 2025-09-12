@@ -45,10 +45,10 @@ I'm Yavanika. <img align="right" src="https://raw.githubusercontent.com/Tarikul-
 <div align="left">
 
 <img src="sqlserver-SVG-icons.png" width="49" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="49"/>
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="49"/> -->
           
   
-<img src="https://skillicons.dev/icons?i=postgres,mysql,azure,aws,latex,py,ps,figma,notion"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,latex,ai,ps,figma,notion"/>
 </a>
 </div>
 
