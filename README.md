@@ -1,5 +1,5 @@
 <!-- BANNER IMAGE -->
-[![Header](gh-banner.png)](https://yavbiolinks.vercel.app/)
+[![Header](./images/yavanikab-gb-banner.png)](https://yavbiolinks.vercel.app/)
 
 <!-- HEADING 1 -->
 
