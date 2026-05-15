@@ -1,5 +1,5 @@
 <!-- BANNER IMAGE -->
-[![Header](./images/yavanikab-gb-banner.png)](https://yavbiolinks.vercel.app/)
+[![Header](./images/yavanikab-gb-banner.png)](https://byawe.carrd.co/)
 
 <!-- HEADING 1 -->
 
