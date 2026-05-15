@@ -26,7 +26,7 @@ I'm Yavanikab. <img align="right" src="https://raw.githubusercontent.com/Tarikul
 
 
 
-<sub>Building things that make developers' lives easier. [Buy Me a Coffee](https://buymeacoffee.com/YOUR_USERNAME) ☕</sub>
+<sub>Building things that make developers' lives easier. [Buy Me a Coffee](https://buymeacoffee.com/why25) ☕</sub>
 
 
 <!-- LINE -->
@@ -95,13 +95,13 @@ I'm Yavanikab. <img align="right" src="https://raw.githubusercontent.com/Tarikul
 <table align="center"> <!-- TABLE STATS -->
   <tr>
     <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=balaga-yavanika&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true&show=reviews&hide=contribs&" width="160%" height="150">
+    <img src="https://github-readme-stats.vercel.app/api?username=yavanikab&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true&show=reviews&hide=contribs&" width="160%" height="150">
     </td>
-    <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=balaga-yavanika&theme=github_dark&hide_border=true" width="120%" height="150"></th>
+    <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=yavanikab&theme=github_dark&hide_border=true" width="120%" height="150"></th>
   </tr>
     <tr>
     <td colspan="2">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balaga-yavanika&theme=github_dark" alt="Profile Summary Graph" width="100%" height="auto"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yavanikab&theme=github_dark" alt="Profile Summary Graph" width="100%" height="auto"/>
     </td>
   </tr>
 </table>
@@ -112,7 +112,7 @@ I'm Yavanikab. <img align="right" src="https://raw.githubusercontent.com/Tarikul
 <div align="center">
 <!--     <a href="https://visitcount.itsvg.in"> -->
 <!--     <img src="https://visitcount.itsvg.in/api?id=balaga-yavanika&label=Yavi's%20Profile%20Views&icon=3&pretty=true" width=auto /></a> -->
-<img src="https://komarev.com/ghpvc/?username=balaga-yavanika&color=ff69b4&abbreviated=true&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=yavanikab&color=ff69b4&abbreviated=true&style=for-the-badge"/>
 	
 </div>
 
@@ -133,7 +133,7 @@ I'm Yavanikab. <img align="right" src="https://raw.githubusercontent.com/Tarikul
 <br>
 
 <div align="center">
-	<a href="https://www.buymeacoffee.com/whyaweeye25"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="auto" height="200"/></a>
+	<a href="https://buymeacoffee.com/why25"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="auto" height="200"/></a>
 </div>
 
 <!-- waving footer -->
