@@ -5,32 +5,30 @@
 
 <h1 align="left">
 Hi there <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="48" height="48" /></sub>,
-I'm Yavanika. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman.png" alt="Woman" width="80" height="80" />
+I'm Yavanikab. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman.png" alt="Woman" width="80" height="80" />
 </h1>
 
 
 <!-- HEADING 2 -->
 <div>
-    <h3 align="left"><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fleur-de-lis.png" alt="Fleur-de-lis" width="20" height="20"/></sub> A passionate - Data Enthusiaist <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fleur-de-lis.png" alt="Fleur-de-lis" width="20" height="20"/></sub</h3>
+    <h3 align="left"><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fleur-de-lis.png" alt="Fleur-de-lis" width="20" height="20"/></sub> I build open-source tools for developers <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fleur-de-lis.png" alt="Fleur-de-lis" width="20" height="20"/></sub</h3>
 </div>
-<br>
 
 
-<!-- PERSONAL INFO -->
-<div align="left">
-<p>
-    <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="20" height="20" /></sub> <strong><em>I’m currently learning:</em></strong> Data Skills.
-</p>
+### Projects
 
-<p>
-    <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Yellow%20Circle.png" alt="Yellow Circle" width="20" height="20" /></sub> <strong><em>Data-Fact:</em></strong> The largest data center in the world, covering 6.3 million square feet, is located in Langfang, China.
-</p>
+| Project | What it is |
+|---|---|
+| **[Doto](https://github.com/YOUR_USERNAME/doto)** | Windows desktop checklist app. Plain Markdown files. No accounts. |
+| **SQL Visualizer** | *(coming soon)* |
+| **Wispr Stories** | *(coming soon)* |
+| **AI Decoded** | *(coming soon)* |
 
-<p><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /></sub> <strong><em>I’m currently working on: </em></strong> Improving my skills 😁 </p>
 
-<p><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /></sub> <strong><em>I sometimes write on:</em></strong> <a href="https://balaga-yavanika.medium.com/">My Medium Blog</a></p>
-</div>
-<br>
+
+<sub>Building things that make developers' lives easier. [Buy Me a Coffee](https://buymeacoffee.com/YOUR_USERNAME) ☕</sub>
+
+
 <!-- LINE -->
 <img align="center" src="./images/line.png" />
 
@@ -60,21 +58,9 @@ I'm Yavanika. <img align="right" src="https://raw.githubusercontent.com/Tarikul-
 <h3><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /></sub> Other Communities <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="29" height="29" /></sub></h3>
 <div align="left">
 
-<a href=" " target="_blank">
-<img alt="Yavi hackerrank Profile" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a> 
-
-<a href="" target="_blank"> 
-<img alt="Yavi leetcode Profile" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a> 
-
-<a href="" target="_blank"> 
-<img alt="Yavi Kaggle Profile" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
-
-<!-- <a href="https://dev.to/yavanika-b" target="_blank"> <img alt="Yavi Dev.to Profile" src="./images/dev.svg" width="100" /></a> -->
 
 <a href="" target="_blank">
 <img alt="Yavi Dev.to Profile" src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-
-<!-- <a href="https://www.medium.com" target="_blank"> <img alt="Yavi Medium Profile" src="./images/medium.svg" width="100" /></a>  -->
 
 <a href="https://balaga-yavanika.medium.com/" target="_blank">
 <img alt="Yavi Medium Profile" src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" /></a>
@@ -87,53 +73,9 @@ I'm Yavanika. <img align="right" src="https://raw.githubusercontent.com/Tarikul-
 <br />
 
 
-
-<!-- CONNECT WITH ME -->
-<h3 align="left"><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25"/></sub> Connect with Me <sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25"/></sub></h3>
-
-<div align="center">
-    
-<a href=" " target="blank">
-<img src="./images/test.svg" alt="balaga-yavanika" /></a> 
-
-<a href=" " target="blank">
-<img src="./images/behance.svg" /></a>
-
-<a href=" ">
-<img src="./images/gmail.svg"/></a>
-
-
-
 </div>
 <br >
 
-<!-- Resume | Portfolio -->
-
-<div align="center">
-<div >
-<a href=" " target="blank" >
-<img src="./images/resume-img.svg" width="200" align="left"/></a>
-</div>
-<div>
-<a href=" " target="blank" >
-<img src="./images/portfolio-img.svg" width="200" align="right" /></a>
-</div>
-</div>
-
-<!--
-<div align="right">
-<table>
-<tr>
-<td> <a href=" "><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Down%20Arrow.png" alt="Down Arrow" width="19" height="19" /></sub> <span>Download My Resume</span></a></td>
-<td><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Minus.png" alt="Minus" width="25" height="25" /></sub></td>
-<td><sub><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="20" height="20" /></sub> Visit My Portfolio</td>
-</tr>
-</table>
-</div> 
--->
-<br>
-<br>
-<br>
 <!-- LINE -->
 <img align="center" src="./images/line.png"  />
 
